@@ -1,0 +1,16 @@
+{
+	"ImportPath": "server",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/tidwall/gjson",
+			"Comment": "v1.1.0-2-g9ed3f8e",
+			"Rev": "9ed3f8e1a5d67a79157423b8d6f448d42b907f36"
+		},
+		{
+			"ImportPath": "github.com/tidwall/match",
+			"Rev": "1731857f09b1f38450e2c12409748407822dc6be"
+		}
+	]
+}
